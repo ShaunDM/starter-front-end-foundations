@@ -20,6 +20,10 @@ h3 {
   border-bottom: 1px solid lightgray;
 }
 
+main img {
+  width: 100%;
+}
+
 /* Groups & Items */
 
 .group {
